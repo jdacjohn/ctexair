@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document CTEX Air dot COM*/
+
+html, body, h1, h2, h3, h4, h5, h6, div, span, form, p, ul, ol, dl, li, dt, dd, a, img, address {
+  margin: 0 auto;
+  border: 1 solid;
+  border-color:#000099;
+  padding: 0;
+}
+
+h3 {
+	color: #DB4533;
+}
+
+body {
+	color: #000000;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background-color: #EEEEEE;
+	background-size: 1024px 1491px;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 1024px;
+	min-height: 1491px;
+	min-width: 1024px;
+}
+
+#mainBody {
+	width:1024px;
+	background-image: url(../images/background.gif);
+	min-height:1024px;
+}
+
+#contactBody {
+	width: 1024px;
+	background-color: #FEE8D5;
+}
+
+#topNav {
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+	width: 1024px;
+	height: 306px;
+	background-image: url(../images/ctslice_01.gif);
+	background-repeat:no-repeat;
+	background-position: center top;
+	border: 0px;
+	display: block;
+}
+
+#topMenu {
+	display:block;
+	position: absolute;
+	top: 57px;
+	width: 821px;
+	height: 47px;
+	margin-left: 203px;
+	text-align: center;
+	background-image:url(../images/menu_bg.png);
+	background-repeat: repeat-x;
+	text-align: justify;
+	vertical-align: middle;
+}
+
+#footer {
+	display: block;
+	width: 1024px;
+	height: 196px;
+	background-image: url(../images/ctslice_12.jpg);
+	position:absolute;
+	vertical-align:bottom;
+	text-align: left;
+	margin-left: 0px;
+}
+
+#footer a:link, #footer a:visited {
+	text-decoration: none;
+	font-variant: small-caps;
+	color: #0025ff;
+}
+
+#leftContent {
+	width: 1024px;
+	min-height: 600px;
+}
+
+#middleContent {
+	width: 756px;
+	min-height: 600px;
+}
+
+#rightContent {
+	width: 256px;
+	min-height: 600px;
+}
+
+
+
